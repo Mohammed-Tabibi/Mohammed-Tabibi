@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="docker ps : projets de Mohammed Tabibi">
+<defs>
+  <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="370" y1="0" x2="630" y2="290">
+    <stop offset="0" stop-color="#FFFEF9"/><stop offset=".3" stop-color="#F5F1E8"/>
+    <stop offset=".7" stop-color="#EBE6D9"/><stop offset="1" stop-color="#E8E3D6"/>
+  </linearGradient>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1A1C28"/>
+    <stop offset=".5" stop-color="#557C6A"/>
+    <stop offset="1" stop-color="#66BB6A"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#84A59D" stroke-opacity=".16" stroke-width="1"/>
+  </pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs>
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace}
+.s{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}
+.f{opacity:0;animation:fade .01s linear forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+.cur{animation:blink 1s step-end infinite}
+@keyframes ty1{to{transform:translateX(337px)}}</style>
+
+  <rect x="0.5" y="4.5" width="999" height="289" rx="10" fill="#557C6A" opacity=".08"/>
+  <rect x="0.5" y="0.5" width="999" height="289" rx="10" fill="#FAF8F0" stroke="#C8D3CA"/>
+  <path d="M0.5 34.5H999.5" stroke="#C8D3CA"/>
+  <circle cx="20.5" cy="17.5" r="6" fill="#557C6A"/>
+  <circle cx="40.5" cy="17.5" r="6" fill="#84A59D"/>
+  <circle cx="60.5" cy="17.5" r="6" fill="#B3DDB4"/>
+  <text x="500.0" y="22.5" text-anchor="middle" class="m" font-size="12" fill="#6B7F78">docker — projets</text>
+<path d="M24 114H976" stroke="#C8D3CA" stroke-dasharray="3 4"/>
+<g class="f" style="animation-delay:0.30s"><text x="24" y="70" class="m" font-size="14"><tspan fill="#3F9A45">mohammed@oujda</tspan><tspan fill="#6B7F78">:</tspan><tspan fill="#557C6A">~/profile</tspan><tspan fill="#6B7F78">$</tspan></text></g><g class="f" style="animation-delay:0.45s"><text x="245.0" y="70" class="m" font-size="14" fill="#1A1C28">docker ps --filter owner=mohammed</text><rect x="244.0" y="56" width="337" height="21" fill="#FAF8F0" style="animation:ty1 1.0s steps(33) 0.50s forwards"/></g><g class="f" style="animation-delay:1.70s"><text x="24" y="104" class="m" font-size="12.5" fill="#6B7F78" font-weight="bold">CONTAINER ID</text><text x="136" y="104" class="m" font-size="12.5" fill="#6B7F78" font-weight="bold">IMAGE</text><text x="425" y="104" class="m" font-size="12.5" fill="#6B7F78" font-weight="bold">STATUS</text><text x="605" y="104" class="m" font-size="12.5" fill="#6B7F78" font-weight="bold">PORTS</text><text x="780" y="104" class="m" font-size="12.5" fill="#6B7F78" font-weight="bold">NAMES</text></g><g class="f" style="animation-delay:2.00s"><text x="24" y="134" class="m" font-size="13.5" fill="#7D8F88">a1f3c9e2</text><text x="136" y="134" class="m" font-size="13.5" fill="#3F9A45">spring-boot/angular/gemini</text><circle cx="430" cy="129.5" r="4.5" fill="#3F9A45"><animate attributeName="opacity" values="1;.3;1" dur="1.4s" begin="0.0s" repeatCount="indefinite"/></circle><text x="441" y="134" class="m" font-size="13.5" fill="#3F9A45">Up · 2025–26</text><text x="605" y="134" class="m" font-size="13.5" fill="#557C6A">jwt, ai-quiz</text><text x="780" y="134" class="m" font-size="13.5" font-weight="bold" fill="#557C6A">smart-notes-ai</text></g><g class="f" style="animation-delay:2.30s"><text x="24" y="164" class="m" font-size="13.5" fill="#7D8F88">7b2d4e81</text><text x="136" y="164" class="m" font-size="13.5" fill="#3F9A45">aspnet-core/spring/or-tools</text><circle cx="430" cy="159.5" r="4.5" fill="#3F9A45"><animate attributeName="opacity" values="1;.3;1" dur="1.4s" begin="0.25s" repeatCount="indefinite"/></circle><text x="441" y="164" class="m" font-size="13.5" fill="#3F9A45">Up · 2025–26</text><text x="605" y="164" class="m" font-size="13.5" fill="#557C6A">gps, routing</text><text x="780" y="164" class="m" font-size="13.5" font-weight="bold" fill="#557C6A">rihlaty-ride</text></g><g class="f" style="animation-delay:2.60s"><text x="24" y="194" class="m" font-size="13.5" fill="#7D8F88">e4d8b6f0</text><text x="136" y="194" class="m" font-size="13.5" fill="#3F9A45">react/aspnet-core/yarp</text><circle cx="430" cy="189.5" r="4.5" fill="#3F9A45"><animate attributeName="opacity" values="1;.3;1" dur="1.4s" begin="0.5s" repeatCount="indefinite"/></circle><text x="441" y="194" class="m" font-size="13.5" fill="#3F9A45">Up · été 2026</text><text x="605" y="194" class="m" font-size="13.5" fill="#557C6A">cnie, qr-pdf</text><text x="780" y="194" class="m" font-size="13.5" font-weight="bold" fill="#557C6A">wilaya-passeports</text></g><g class="f" style="animation-delay:2.90s"><text x="24" y="224" class="m" font-size="13.5" fill="#7D8F88">c9e05f3a</text><text x="136" y="224" class="m" font-size="13.5" fill="#3F9A45">php/mysql/javascript</text><circle cx="430" cy="219.5" r="4.5" fill="#6B7F78"></circle><text x="441" y="224" class="m" font-size="13.5" fill="#6B7F78">Exited (0) 2024–25</text><text x="605" y="224" class="m" font-size="13.5" fill="#557C6A">tracking, pay</text><text x="780" y="224" class="m" font-size="13.5" font-weight="bold" fill="#557C6A">transport-intl</text></g><g class="f" style="animation-delay:3.40s"><text x="24" y="266" class="m" font-size="12.5" fill="#6B7F78">4 containers · <tspan fill="#3F9A45">3 running</tspan> · 1 exited <tspan fill="#A3B5AE">(code 0 = terminé avec succès ✓)</tspan></text></g>
+</svg>
