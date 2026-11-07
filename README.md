@@ -1,6 +1,6 @@
 <!-- ═══════════════ BANNIÈRE ANIMÉE ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4A1D96,50:7C3AED,100:EC4899&text=Mohammed%20Tabibi&fontColor=ffffff&fontSize=62&fontAlignY=35&animation=twinkling&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20PHP%20%26%20Symfony&descAlignY=57&descSize=18" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4A1D96,50:7C3AED,100:EC4899&text=Mohammed%20Tabibi&fontColor=ffffff&fontSize=62&fontAlignY=35&animation=twinkling&desc=Developpeur%20Full-Stack%20-%20PHP%20et%20Symfony&descAlignY=57&descSize=18" width="100%"/>
 </p>
 
 <!-- ═══════════════ TEXTE QUI S'ÉCRIT TOUT SEUL ═══════════════ -->
