@@ -149,22 +149,6 @@ $ git log --graph --oneline parcours
 
 <br/>
 
-## `GET /api/metrics` <sub><code>200 OK</code></sub>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Tabibi&background=FAF8F0&border=C8D3CA&stroke=C8D3CA&ring=66BB6A&fire=557C6A&currStreakNum=1A1C28&sideNums=1A1C28&currStreakLabel=557C6A&sideLabels=557C6A&dates=6B7F78&border_radius=12" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Tabibi/Mohammed-Tabibi/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammed-Tabibi/Mohammed-Tabibi/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohammed-Tabibi/Mohammed-Tabibi/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<br/>
-
 ## `GET /api/offline` <sub><code>200 OK</code></sub>
 
 ```json
