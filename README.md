@@ -126,11 +126,11 @@ Application web de gestion du **transport international de marchandises** : dema
 
 <p align="center">
   <b>Langages</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,cs,php,ts,py,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,py&theme=dark" />
 </p>
 <p align="center">
   <b>Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,symfony&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react&theme=dark" />
 </p>
 <p align="center">
   <b>Bases de données</b><br/>
